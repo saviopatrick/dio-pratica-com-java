@@ -24,6 +24,7 @@ public class ControleSimplesDeSaques {
                 }
             }
         }
+        // sair
         scanner.close();
     }
 }
